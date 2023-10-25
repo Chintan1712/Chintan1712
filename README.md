@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chintan1712
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning Data science with python
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently working as Statistical Programmer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vajanichintan17@gmail.com
 
